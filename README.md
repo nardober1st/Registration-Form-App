@@ -9,7 +9,7 @@ This is just a simple registration form app.
 ## Technologies
 * Kotlin
   - Data Class
-  -Methods/Functions
+  - Methods/Functions
   
 * ViewGroup
     * ScrollView
