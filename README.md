@@ -4,22 +4,20 @@ This is just a simple registration form app.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="screenshots/main_activity.png" width="220">&emsp;<img src="screenshots.summary_activity.png" width="220">&emsp;
+<img src="screenshots/main_activity.png" width="220">&emsp;<img src="screenshots/summary_activity.png" width="220">&emsp;
 
 ## Technologies
 * Kotlin
   - Data Class
-  - Other Classes
+  -Methods/Functions
+  
 * ViewGroup
     * ScrollView
     * LinearLayout
-    * ConstraintLayout
-    * CardView
+    
 * UI Components
-  - ImageView
   - TextInputLayout
   - TextInputEditLayout
-  - Checkbox
   - Spinner
   - Button
   - TextView
